@@ -1,0 +1,3 @@
+codigo no terminal para ativar o venv
+
+ .\venv\Scripts\Activate.ps1
